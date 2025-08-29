@@ -17,8 +17,8 @@ Although not every CTF challenge requires a Virtual Machine (VM), setting one up
 
 Helpful VM Resources
 
-Intro to VMs and Containers (video): https://youtu.be/eyNBf1sqdBQ?si=8_kfjoVmCgWFgkGm
-Virtual Machine Setup Walkthrough by Network Chuck: https://youtu.be/wX75Z-4MEoM?si=srjffITQkEA18kvu
+- Intro to VMs and Containers (video): https://youtu.be/eyNBf1sqdBQ?si=8_kfjoVmCgWFgkGm
+- Virtual Machine Setup Walkthrough by Network Chuck: https://youtu.be/wX75Z-4MEoM?si=srjffITQkEA18kvu
   
 Quick Setup Links
 
