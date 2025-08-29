@@ -1,5 +1,4 @@
 # My First CTF Experience and Useful Resources for Beginners
-Sharing my first CTF experience with tips, resources, and mindset advice to help newcomers kickstart their CTF journey
 
 ![image alt](https://github.com/dita-cyber/My-First-CTF/blob/2adddd13f7b6efc962ac516ff8d1b8e17affde01/CTF.png)
 
