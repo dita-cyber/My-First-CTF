@@ -10,6 +10,7 @@ It was very overwhelming at first, but also incredibly rewarding. That experienc
 ____
 
 The beginner-level CTF in the WiCyS program is designed to be approachable, fun, and educational. It’s a competition, but also a learning environment to acquire practice real cybersecurity skills, discover what areas interest you most (networking, forensics, web, crypto, etc.), learn persistence and creative problem-solving, and experience the “aha!” moments that make cybersecurity so exciting. With over 28 content packs and an integrated hint system, this CTF is perfect for beginners. Even if you’ve never touched a CTF before, you’ll come away with practical knowledge.
+____
 
 **Why Virtual Machines Matter**
 
