@@ -29,7 +29,9 @@ Quick Setup Links
 - Ubuntu download: http://bit.ly/39DKTpQ
 ____
 
-**Mindset for CTFs: How to Approach Challenges and What to Do If You Get Stuck**
+**Mindset for CTFs**
+
+How to approach challenges and what to do if you get stuck
 
 - Large, complex challenges can feel overwhelming and the key is to break them into smaller, manageable steps. One piece at a time and focus on making small progress. If you’re unsure where to start, try working backward from the current challenge. Thinking in reverse often reveals the key steps or missing information you need.
 - Before diving into advanced challenges, make sure you have a strong foundation in the basics. CTFs often build on topics like networking, Linux commands, web technologies, cryptography, and scripting. To strengthen your skills read the challenge and read which topic it is about and research the fundamentals about that topic. 
