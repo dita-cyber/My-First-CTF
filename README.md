@@ -38,7 +38,7 @@ Quick Setup Links
 - Ubuntu download: http://bit.ly/39DKTpQ
 ____
 
-**Mindset for CTFs**
+<h1>Mindset for CTFs</h1> 
 
 How to approach challenges and what to do if you get stuck
 
@@ -47,6 +47,7 @@ How to approach challenges and what to do if you get stuck
 - One of the most valuable skills in cybersecurity is the ability to research. When you come across an unfamiliar term, error message, or concept, use search engines to your advantage. Learn to refine your queries so you can quickly find documentation, forum posts, past challenge write-ups, and useful tools that can make your challenge way easier to be solved. 
 - Begin with the simpler challenges first. This helps you build confidence, gather points, and stay motivated. Jumping straight into the hardest challenges when you’re new can be discouraging and may lead to frustration or giving up.
 - If you’re stuck on a challenge for too long, don’t let it drain your energy. Skip it, move on to another challenge, and then return later with a fresh perspective. Often, stepping away gives your mind a break to spot something you missed the first time.
+- Use hints, but don’t use them right away after reading the question. Read the scenario carefully and re-read it if you need to. Really think about the task and identify the key words to get a general idea of what they’re asking for. When you do need to use hints, don’t beat yourself up and you’re here to learn.
 - Don’t be afraid to interact with others who have more experience. Let people know this is your first CTF, many will be happy to help. The key is not to ask for direct answers, but rather to ask how they would approach the problem. This way, you gain new perspectives and learn methods instead of shortcuts.
 - CTFs are a community-driven learning experience. Share ideas, give small hints, and point others toward useful tools or approaches, but don’t spoil the answers (it’s against the rules and defeats the purpose). Even asking, “What do you think?” can open up discussions. If someone’s suggestion is way off track, guide them gently toward the right path with hints instead of solutions. Teaching and supporting each other reinforces your own learning and strengthens the community.
 - CTFs are designed to be difficult, so frustration is part of the process. Embrace curiosity, persistence, and the willingness to try again after failing. Investigate every clue, test your ideas, and stay patient. Remember: every mistake is an opportunity to learn.
