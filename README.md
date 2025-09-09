@@ -14,12 +14,11 @@ One of the most fascinating things about cybersecurity, in my opinion, is that w
 
 I have one analogy to explain CTFs in a more relatable way:
 
-#RPG Video Games#
-
-![image alt](https://github.com/dita-cyber/My-First-CTF/blob/fa53d31364bd88e7d24ada62028602559c20b9e3/CTFRPG.png)
+<h1> RPG Video Games <h1> 
 
 Imagine you’re the hero in a video game. You’ve just entered a dark dungeon. The goal? Find the treasure chest at the end, which in cybersecurity terms is the flag. The first hallway is quiet. You notice strange markings on the wall. At first, you have no idea what they mean. You try different thing like pressing on the stones, maybe shine a torch differently and suddenly, the wall shifts, revealing a hidden passage. That’s like your first CTF puzzle: experimenting until something clicks. Then you run into your first monster. It’s not too big, but it blocks the path. Luckily, a villager you met outside hinted, “Look carefully at its weakness, it can’t stand the light.” You shine your torch, and the creature dissolves into smoke. In a CTF, that villager is like the hint system or even a forum thread. You didn’t need to brute-force the fight, you just needed to listen, think, and apply the right tool. As you keep going, you battle tougher monsters: some require special weapons, others force you to decode riddles before they step aside. Each challenge you beat gives you a new skill or tool like technical tool in cyber Wireshark, Burp Suite, CyberChef... By the time you reach the final chamber, you’re not the same beginner who walked in. Finally, you find the treasure chest. You crack it open, and there it is: the flag.
 
+![image alt](https://github.com/dita-cyber/My-First-CTF/blob/fa53d31364bd88e7d24ada62028602559c20b9e3/CTFRPG.png)
 ____
 
 **Why Virtual Machines Matter**
