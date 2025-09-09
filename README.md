@@ -21,7 +21,7 @@ Imagine you’re the hero in a video game. You’ve just entered a dark dungeon.
 ![image alt](https://github.com/dita-cyber/My-First-CTF/blob/fa53d31364bd88e7d24ada62028602559c20b9e3/CTFRPG.png)
 ____
 
-<h1> **Why Virtual Machines Matter**</h1> 
+<h1>Why Virtual Machines Matter</h1> 
 
 Although not every CTF challenge requires a Virtual Machine (VM), setting one up is one of the most valuable exercises you can do as a beginner. Having a VM will expose you to new knowledge and technology, and will almost certainly force you to troubleshoot issues that arise during setup. This process teaches you how to find information, follow technical steps, and work through problems systematically. These skills are the foundation of a career in cybersecurity, since this approach to tasks is used daily in the field. Gaining this experience allows you to practice patience, persistence, time management, critical thinking, attention to detail, and problem-solving by analyzing scenarios and approaching issues in different ways. All of this will be extremely valuable for future opportunities and your first job in cyber.
 
