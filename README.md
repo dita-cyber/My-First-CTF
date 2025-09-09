@@ -8,7 +8,19 @@ It was very overwhelming at first, but also incredibly rewarding. That experienc
 
 ____
 
-The beginner-level CTF in the WiCyS program is designed to be approachable, fun, and educational. It’s a competition, but also a learning environment to acquire practice real cybersecurity skills, discover what areas interest you most (networking, forensics, web, crypto, etc.), learn persistence and creative problem-solving, and experience the “aha!” moments that make cybersecurity so exciting. With over 28 content packs and an integrated hint system, this CTF is perfect for beginners. Even if you’ve never touched a CTF before, you’ll come away with practical knowledge.
+A Capture-the-Flag (CTF) is a gamified cybersecurity challenge where you solve puzzles—web, crypto, forensics, reverse engineering, and more to uncover a secret token called a flag (usually formatted like flag{...}). Along the way you practice investigative thinking, learn new tools, and see how systems really behave.
+
+One of the most fascinating things about cybersecurity, in my opinion, is that while it’s a highly technical field, it also allows you to be very creative. For example, in a CTF there are so many different ways to capture a flag. You might not fully understand the concept of a task, how to solve it, or even the technical aspects of certain tools or commands if you haven’t been exposed to them yet—but you can still search for ways to find the answer, sometimes in ways you never imagined. Using creativity and thinking outside the box is a powerful exercise that helps develop analytical skills and broadens how you approach challenges.
+
+I have one analogy to explain a CTF in a more relaitable way:
+
+ 
+
+
+Video Game RPG
+
+Imagine you’re the hero in a video game. You’ve just entered a dark dungeon. The goal? Find the treasure chest at the end, which in cybersecurity terms is the flag. The first hallway is quiet. You notice strange markings on the wall. At first, you have no idea what they mean. You try different thing like pressing on the stones, maybe shine a torch differently and suddenly, the wall shifts, revealing a hidden passage. That’s like your first CTF puzzle: experimenting until something clicks. Then you run into your first monster. It’s not too big, but it blocks the path. Luckily, a villager you met outside hinted, “Look carefully at its weakness, it can’t stand the light.” You shine your torch, and the creature dissolves into smoke. In a CTF, that villager is like the hint system or even a forum thread. You didn’t need to brute-force the fight, you just needed to listen, think, and apply the right tool. As you keep going, you battle tougher monsters: some require special weapons, others force you to decode riddles before they step aside. Each challenge you beat gives you a new skill or tool like technical tool in cyber Wireshark, Burp Suite, CyberChef... By the time you reach the final chamber, you’re not the same beginner who walked in. Finally, you find the treasure chest. You crack it open, and there it is: the flag.
+
 ____
 
 **Why Virtual Machines Matter**
