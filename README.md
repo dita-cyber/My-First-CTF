@@ -34,6 +34,8 @@ Quick Setup Links
 
 - Download Virtual Box: http://bit.ly/368FS7Z
 - Download Virtual Box Extension Pack: https://bit.ly/3svvPmV
+- VMware Fusion & Workstation Going Free: https://blogs.vmware.com/cloud-foundation/2025/03/10/vmware-fusion-workstation-going-free-new-resources/
+- Download Desktop Hypervisor (Workstation and Fusion) Products: https://knowledge.broadcom.com/external/article?articleNumber=368734
 - Kali Linux download: http://bit.ly/39HEE4q
 - Ubuntu download: http://bit.ly/39DKTpQ
 ____
