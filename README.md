@@ -44,9 +44,9 @@ ____
 
 CyberChef is a web-based tool called the "Cyber Swiss Army knife" for data. It allows users to perform various operations like encoding/decoding, encryption/decryption, and data analysis without writing code
 
-Explanation of CyberChef and how to use it: https://www.youtube.com/watch?v=VTxSEV2dUM4
-CyberChef tool website: https://gchq.github.io/CyberChef/
-Recipes: https://github.com/mattnotmax/cyberchef-recipes
+- Explanation of CyberChef and how to use it: https://www.youtube.com/watch?v=VTxSEV2dUM4
+- CyberChef tool website: https://gchq.github.io/CyberChef/
+- Recipes: https://github.com/mattnotmax/cyberchef-recipes
 
 ____
 
